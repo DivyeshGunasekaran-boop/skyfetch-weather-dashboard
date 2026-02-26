@@ -1,3 +1,4 @@
+// Weather API Project - Final Submission
 // Your OpenWeatherMap API Key
 const API_KEY = '1d63390750b104f4f4d9388aa9a28aa4';  // Replace with your actual API key
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
